@@ -1,0 +1,7 @@
+{
+  "name": "SIG FIER II - Mali",
+  "description": "Plateforme Web SIG professionnelle pour le projet FIER II (Mali). Gestion cartographique, analyse et suivi-évaluation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
